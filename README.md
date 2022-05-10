@@ -13,6 +13,8 @@ Here, we propose a new fast hyperspectral image unmixing method based on structu
 
 Run Demo.
 
+Please download the dataset from https://github.com/LinaZhuang/NMF-QMV_demo.
+
 ------------------------------------------------------------------------------------------------------------------------------------------------
 2). Details
 
