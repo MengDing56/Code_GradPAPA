@@ -19,6 +19,7 @@ Run Demo.
 More detail can be found in [1] and [2]
 
 [1] Meng Ding, Xiao Fu, and Xi-Le Zhao. Fast and Structured Block-Term Tensor Decomposition For Hyperspectral Unmixing, arXiv:2205.03798;
+
 [2] Meng Ding, Xiao Fu, Ting-Zhu Huang, and Xi-Le Zhao. Constrained Block-Term Tensor Decomposition-Based Hyperspectral Unmixing via Alternating Gradient Projection, in Proc. EUSIPCO, 2021.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------
